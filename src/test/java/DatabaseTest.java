@@ -4,7 +4,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import java.sql.*; // Imports classes like Connection, Statement, and ResultSet to handle database connections, execute SQL queries, and process results, enabling interaction with database
-import java.util.Properties; // Imports the Properties class to load and manage key-value pairesultSet (URL, username, password)
+import java.util.Properties; // Imports the Properties class to load and manage key-value pairs (URL, username, password)
 import java.io.InputStream; // Imports InputStream to read the db.properties file from the classpath, allowing the code to access configuration data as a stream
 
 /**
