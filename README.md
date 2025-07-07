@@ -1,6 +1,6 @@
 ### Database Testing Project
 
-- **Tools/Tech**: Java, TestNG, MySQL
+- **Tools/Tech**: Java, **MySQL**, TestNG, Maven
 - **Description**: A database testing project designed to retrieve and assert database information.
 - **Highlights**:
   - Supports testing with MySQL and other databases via configuration
